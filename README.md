@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am Self taught Programmer, Exploring different fields in Tech. 
+# 💫 About Me: Exploring different fields in Tech. 
 
 
 # 💻 Tech Stack:
